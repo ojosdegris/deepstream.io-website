@@ -1,6 +1,6 @@
 Constants
 ----------------------------------
-Constants are used throughout deepstream. They can be accessed from the outside via the server instance 
+Constants are used throughout deepstream. They can be accessed from the outside via the server instance
 
 	var DeepstreamServer = require( 'deepstream.io' ),
 		server = new DeepstreamServer();
@@ -307,10 +307,6 @@ Actions
       <tr>
          <td>ACTIONS.CREATEORREAD</td>
          <td>CR</td>
-      </tr>
-      <tr>
-         <td>ACTIONS.RPC</td>
-         <td>RPC</td>
       </tr>
       <tr>
          <td>ACTIONS.EVENT</td>
